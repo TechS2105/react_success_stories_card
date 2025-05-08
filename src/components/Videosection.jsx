@@ -2,10 +2,10 @@ import React, {useState} from 'react';
 import VideoSection from '../../public/styles/Videocontainer.module.css';
 import { CiPlay1 } from "react-icons/ci";
 
-let image1 = "../../public/images/pexels-nahmadofficial-10467168.jpg";
-let image2 = "../../public/images/pexels-helenalopes-27086886.jpg";
-let image3 = "../../public/images/pexels-vanessa-garcia-6326346.jpg";
-let image4 = "../../public/images/pexels-cristian-rojas-10041267.jpg";
+let image1 = "images/pexels-nahmadofficial-10467168.jpg";
+let image2 = "images/pexels-helenalopes-27086886.jpg";
+let image3 = "images/pexels-vanessa-garcia-6326346.jpg";
+let image4 = "images/pexels-cristian-rojas-10041267.jpg";
 
 function Videosection(props) {
 
